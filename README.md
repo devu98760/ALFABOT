@@ -17,7 +17,7 @@ Alfa Bot Multi Device is a automated whatsapp bot created by Devu Anil.
 
 -------
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devu98760/ALFABOT.git/)
 
 # Install Manually 👇
 ## `Requirements`
