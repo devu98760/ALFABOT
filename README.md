@@ -45,8 +45,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD8
-cd CheemsBot-MD8
+git clone https://github.com/devu98760/ALFABOT.git
+cd ALFABOT
 yarn install
 npm start
 ```
@@ -58,8 +58,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD8
-cd CheemsBot-MD8
+git clone https://github.com/devu98760/ALFABOT.git
+cd ALFABOT
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
