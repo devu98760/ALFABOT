@@ -31,41 +31,6 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 -------
 
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
-</p>
-
-## ```Donate Me```
-
-- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
-
-<p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
-
-## ```Bot Support Group Chats```
-
-- [`1st GC`](https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH)
-- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
-- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
-
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD8/fork)
-
-## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Auth-Session-Generator?v=1)
-
-## ` BUILDPACKS`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
 
 # Install Manually 👇
